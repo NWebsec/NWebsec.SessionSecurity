@@ -1,5 +1,5 @@
 # NWebsec
-NWebsec consists of several security libraries for ASP.NET applications. Consult the [wiki](https://github.com/NWebsec/NWebsec/wiki) to learn how they work.
+NWebsec consists of several security libraries for ASP.NET applications. Consult the [docs](https://docs.nwebsec.com/projects/SessionSecurity/en/latest/) to learn how they work.
 
 You'll find the NWebsec packages on NuGet:
 
